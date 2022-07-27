@@ -1,0 +1,10 @@
+*.jpg
+/lib
+/log
+/output
+*.pth
+*.json
+/tools
+*.xml
+*.mat
+.iml
